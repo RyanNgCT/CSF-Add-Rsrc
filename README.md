@@ -55,5 +55,13 @@ Dataquest SQL Path
 
 * [Portswigger Academy](https://portswigger.net/web-security)
 * [Heath Adam's Web Security Streams](https://www.youtube.com/watch?v=24fHLWXGS-M)
+* [CS253 Web Security by Feross A.](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 
+#### Governance and Data Protection
 
+* To be updated
+
+#### Network Security
+
+* [Mr Sun Lei's Playlist](https://www.youtube.com/watch?v=HI5AvX7b_5Y&list=PLZlxq5DvzmGU8DrpraH3zAMgYn-5k6uEQ)
+* [Rob Riker's PA Playlist](https://www.youtube.com/playlist?list=PLxyr0C_3Ton0As52Kw6YHnklh2Z_Eb1FM)
