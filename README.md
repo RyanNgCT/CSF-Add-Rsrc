@@ -32,6 +32,7 @@ Dataquest SQL Path
 * [Sunny Classroom](https://www.youtube.com/user/sunnylearning) -- take courses in order of Playlist #
 * [David Bombal Playlist](https://www.youtube.com/watch?v=RGxO3J9qi-A&list=PLhfrWIlLOoKMCJLkWbgPJ9aI9_Kx4No7O) -- a few advanced topics
 * [Keith Barker](https://www.youtube.com/watch?v=coKBlNrUZrg&list=PLQQoSBmrXmrxDECc1N9BPYdjS8z0sbCwk)
+* [Kevin Brown's AD Playlist](https://www.youtube.com/channel/UCskDL9NdG_euwmCy4RMrGQw/videos)
 
 #### Reverse Engineering Malware and Malware Analysis, Tools and Techniques
 
