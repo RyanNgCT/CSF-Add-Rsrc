@@ -60,9 +60,12 @@ Dataquest SQL Path
 
 #### Governance and Data Protection
 
-* To be updated
+* [Skillset CISSP Plalist](https://www.youtube.com/watch?v=SccOuGRReW4&list=PLWqLeluv2Rq3qFg-yCQVY_eUngSjqij1g)
 
 #### Network Security
 
 * [Mr Sun Lei's Playlist](https://www.youtube.com/watch?v=HI5AvX7b_5Y&list=PLZlxq5DvzmGU8DrpraH3zAMgYn-5k6uEQ)
 * [Rob Riker's PA Playlist](https://www.youtube.com/playlist?list=PLxyr0C_3Ton0As52Kw6YHnklh2Z_Eb1FM)
+* [INE Video (Intro to PA FW](https://www.youtube.com/watch?v=bKU4VShdPuY)
+* [Bikash's Playlist](https://www.youtube.com/watch?v=YAvc17jaIHU&list=PLaUiizP3D7fNC2x4Yn2kFtp7PDiM-UBIO)
+* [Astrit K's Playlist](https://www.youtube.com/watch?v=wLLlVKvhVYM&list=PLySxAD9v-0wegbpuY8Hry1TI_est_Ovl9) - he also had udemy courses, but I didn't purchase them
