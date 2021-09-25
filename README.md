@@ -47,6 +47,7 @@ Dataquest SQL Path
 
 * [CS310 Data Structures Course](https://www.youtube.com/watch?v=zgCnMvvw6Oo&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk)
 * [NYU DSA Specialization on edX](https://www.edx.org/microbachelors/nyux-programming-data-structures)
+* [Abdul Bari's Algo Playlist](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 #### Digital Forensics
 
