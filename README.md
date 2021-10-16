@@ -38,6 +38,8 @@ Dataquest SQL Path
 
 * [Jai Minton Blog](https://www.jaiminton.com/Tutorials/PracticalMalwareAnalysis/#)
 * [0xf0x playlist](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
+* [Paul Chin's Udemy Courses (Usually Paid)](https://www.udemy.com/user/paulchin/)
+* Books: Practical Malware Analysis, Learning Malware Analysis, Windows Internals (Part 1 & 2)
 
 #### Server & Cloud Security
 
@@ -61,7 +63,7 @@ Dataquest SQL Path
 
 #### Governance and Data Protection
 
-* [Skillset CISSP Plalist](https://www.youtube.com/watch?v=SccOuGRReW4&list=PLWqLeluv2Rq3qFg-yCQVY_eUngSjqij1g)
+* [Skillset CISSP Playlist](https://www.youtube.com/watch?v=SccOuGRReW4&list=PLWqLeluv2Rq3qFg-yCQVY_eUngSjqij1g)
 
 #### Network Security
 
