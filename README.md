@@ -34,7 +34,7 @@ Dataquest SQL Path
 * [Keith Barker](https://www.youtube.com/watch?v=coKBlNrUZrg&list=PLQQoSBmrXmrxDECc1N9BPYdjS8z0sbCwk)
 * [Kevin Brown's AD Playlist](https://www.youtube.com/channel/UCskDL9NdG_euwmCy4RMrGQw/videos)
 
-#### Reverse Engineering Malware and Malware Analysis, Tools and Techniques
+#### Reverse Engineering Malware and Malware Analysis, Tools and Techniques (RE & MA)
 
 * [Jai Minton Blog](https://www.jaiminton.com/Tutorials/PracticalMalwareAnalysis/#)
 * [0xf0x playlist](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
@@ -51,9 +51,10 @@ Dataquest SQL Path
 * [NYU DSA Specialization on edX](https://www.edx.org/microbachelors/nyux-programming-data-structures)
 * [Abdul Bari's Algo Playlist](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
-#### Digital Forensics
+#### Digital Forensics (DF)
 
 * [DFIR Science's Intro to DF](https://www.youtube.com/watch?v=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD)
+* 
 
 #### Web Application Pentesting
 
@@ -64,11 +65,17 @@ Dataquest SQL Path
 #### Governance and Data Protection
 
 * [Skillset CISSP Playlist](https://www.youtube.com/watch?v=SccOuGRReW4&list=PLWqLeluv2Rq3qFg-yCQVY_eUngSjqij1g)
+* NIST Framework
 
 #### Network Security
 
 * [Mr Sun Lei's Playlist](https://www.youtube.com/watch?v=HI5AvX7b_5Y&list=PLZlxq5DvzmGU8DrpraH3zAMgYn-5k6uEQ)
 * [Rob Riker's PA Playlist](https://www.youtube.com/playlist?list=PLxyr0C_3Ton0As52Kw6YHnklh2Z_Eb1FM)
-* [INE Video (Intro to PA FW](https://www.youtube.com/watch?v=bKU4VShdPuY)
+* [INE Video (Intro to PA Firewall)](https://www.youtube.com/watch?v=bKU4VShdPuY)
 * [Bikash's Playlist](https://www.youtube.com/watch?v=YAvc17jaIHU&list=PLaUiizP3D7fNC2x4Yn2kFtp7PDiM-UBIO)
 * [Astrit K's Playlist](https://www.youtube.com/watch?v=wLLlVKvhVYM&list=PLySxAD9v-0wegbpuY8Hry1TI_est_Ovl9) - he also had udemy courses, but I didn't purchase them
+
+#### Additional Labs for DF/RE & MA
+* [Security Blue Team's BTLO (free, but some challenges require subscriptions)](https://blueteamlabs.online)
+* [RangeForce Community Edition](https://go.rangeforce.com/community-edition-registration)
+* [TryHackMe](https://tryhackme.com)
