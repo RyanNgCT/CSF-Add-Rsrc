@@ -1,5 +1,7 @@
 # CSF-Add-Rsrc
-Additional Resources I used to complement various modules for the Diploma in Cybersecurity &amp; Digital Forensics at Ngee Ann Polytechnic, Singapore. Also useful for students looking to get started in Cyber.
+Additional Resources I used to complement my learning for various modules as part of the [Diploma in Cybersecurity &amp; Digital Forensics](https://www.np.edu.sg/ict/Pages/csf.aspx) at Ngee Ann Polytechnic, Singapore. Also useful for students looking to get started in Cyber.
+
+Note that this is a list of resources I found useful and mileage may vary from individual to individual.
 
 ## Modules and corresponding resources
 #### Programming 1 
@@ -54,7 +56,8 @@ Dataquest SQL Path
 #### Digital Forensics (DF)
 
 * [DFIR Science's Intro to DF](https://www.youtube.com/watch?v=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD)
-* 
+* [13 Cubed Videos](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+* Blog for Resources/Talks/Training: [DFIR Diva](https://dfirdiva.com/)
 
 #### Web Application Pentesting
 
