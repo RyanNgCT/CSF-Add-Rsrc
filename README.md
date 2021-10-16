@@ -1,7 +1,7 @@
 # CSF-Add-Rsrc
 Additional Resources I used to complement my learning for various modules as part of the [Diploma in Cybersecurity &amp; Digital Forensics](https://www.np.edu.sg/ict/Pages/csf.aspx) at Ngee Ann Polytechnic, Singapore. Also useful for students looking to get started in Cyber.
 
-Note that this is a list of resources I found useful and mileage may vary from individual to individual.
+Note that this is a list of resources I found useful and mileage may vary from individual to individual. This list is not meant to be exhaustive.
 
 ## Modules and corresponding resources
 ### Programming 1 
@@ -13,6 +13,7 @@ Note that this is a list of resources I found useful and mileage may vary from i
 ### Programming 2 in C#
 
 * [Bryan Duggan Playlist on C# OOP](https://www.youtube.com/playlist?list=PL1n0B6z4e_E5aB2FqwrNRrhLyO0aqW_Bo)
+* [Channel 9 MSDN](https://channel9.msdn.com/)
 
 ### Databases
 
@@ -43,6 +44,7 @@ Dataquest SQL Path
 * [Jai Minton's Blog](https://www.jaiminton.com/Tutorials/PracticalMalwareAnalysis/#)
 * [0xf0x playlist](https://www.youtube.com/watch?v=GE_aSVq8ZnQ&list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
 * [Paul Chin's Udemy Courses (Usually Paid)](https://www.udemy.com/user/paulchin/)
+* [Microsoft Developer Notes (MSDN) - for Malware API calls)](https://docs.microsoft.com/en-us/windows/win32/system-services)
 * Books: Practical Malware Analysis, Learning Malware Analysis, Windows Internals (Part 1 & 2)
 
 ### Server & Cloud Security
@@ -88,3 +90,4 @@ Dataquest SQL Path
 
 ### Other Resources
 * [Professor Messer](https://www.youtube.com/c/professormesser)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
