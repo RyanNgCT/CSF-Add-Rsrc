@@ -50,6 +50,7 @@ Dataquest SQL Path
 ### Server & Cloud Security
 
 * [Coursera Specialization on Windows and Linux Server Security](https://www.coursera.org/specializations/computer-security-systems-management)
+* [ITtaster - various playlists on AD](https://www.youtube.com/c/ittaster/playlists)
 
 ### Data Structures and Algorithms
 
